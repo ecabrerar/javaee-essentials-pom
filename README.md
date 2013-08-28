@@ -10,13 +10,13 @@ The following names were chosen:
 
 * ejb - the module containing the EJBs.
 * web - the module containing the Web application.
-* appclient - the module containing the client side streamer application.
+* appclient - the module containing the client side  application.
 * wsappclient - the module containing the Web services client application.
 * ear - the module producing the EAR which packages the EJBs and the Web application.
 
 This is the easiest and most flexible structure to use.However, if you have many modules in the same directory you may consider finding commonalities between them and create subdirectories to partition them.
 
-For more information visit:
+More information about how organize maven subdirectory at:
 
 http://java.dzone.com/articles/how-do-you-organise-maven-sub
 
