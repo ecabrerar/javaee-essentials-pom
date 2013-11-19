@@ -1,15 +1,15 @@
-javaee-essentials-pom
-=====================
+#javaee-essentials-pom
 
 
-Simple multi-modules JEE Project Template to demonstrates how to use Maven in a multi-modules JEE Project.
+
+Simple multi-modules `JEE Project Template` to demonstrates how to use Maven in a multi-modules JEE Project.
 
 As a general rule, it is better to find functional names for modules. However, it is usually easier to choose names
 that represent a technology instead.
 
 The following names were chosen:
 
-* ejb - the module containing the EJBs.
+* ejb - the module containing the `EJBs`.
 * web - the module containing the Web application.
 * appclient - the module containing the client side  application.
 * wsappclient - the module containing the Web services client application.
