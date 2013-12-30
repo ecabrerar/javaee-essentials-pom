@@ -23,3 +23,7 @@ http://java.dzone.com/articles/how-do-you-organise-maven-sub
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ecabrerar/javaee-essentials-pom/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
